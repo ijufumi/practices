@@ -1,2 +1,6 @@
+# directories
 .idea/
 build/
+
+# files
+*.iml
